@@ -44,7 +44,7 @@ async function run() {
                 const chatId = msg.chat.id;
                 const message = `🌟 Check it out! This bot is 100% open source! 🌐
 
-                        You can explore and contribute to the code in our https://github.com.
+                        You can explore and contribute to the code in our https://github.com/Shibin-Abraham/telegram-bot.
 
                         👍 Enjoying the bot: Consider giving it a ⭐️ on GitHub to show your support!
 
@@ -58,7 +58,7 @@ async function run() {
                             [
                                 {
                                     text: 'Open link',
-                                    url: 'https://github.com'
+                                    url: 'https://github.com/Shibin-Abraham/telegram-bot'
                                 }
                             ]
                         ]

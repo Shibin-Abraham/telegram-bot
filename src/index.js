@@ -44,13 +44,13 @@ async function run() {
                 const chatId = msg.chat.id;
                 const message = `🌟 Check it out! This bot is 100% open source! 🌐
 
-You can explore and contribute to the code in our https://github.com.
+                        You can explore and contribute to the code in our https://github.com.
 
-👍 Enjoying the bot: Consider giving it a ⭐️ on GitHub to show your support!
+                        👍 Enjoying the bot: Consider giving it a ⭐️ on GitHub to show your support!
 
-💡 Want to improve the bot: Feel free to contribute new features or report any issues you find.
+                        💡 Want to improve the bot: Feel free to contribute new features or report any issues you find.
 
-Let's build something awesome together! 💻✨`
+                        Let's build something awesome together! 💻✨`
 
                 telegramBot.sendMessage(chatId, message, {
                     reply_markup: {

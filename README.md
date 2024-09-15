@@ -2,6 +2,8 @@
 
 A **Telegram bot** built with **Node.js** using **Express.js** and the **telegram-bot-api** module to generate QR codes on the fly. It's simple, fast, and fully open-source! 🚀
 
+**[Try the live bot here!](https://t.me/soft_lab_bot)**
+
 ## Features 🎯
 - Generate QR codes from URLs or text.
 - Quick and easy to use.
@@ -17,8 +19,7 @@ A **Telegram bot** built with **Node.js** using **Express.js** and the **telegra
 ## Commands 📜
 - `/start`: Welcome message and introduction to the bot.
 - `/generate`: Prompts the user to input a URL or text for QR code generation.
-- `/help`: Displays a list of available commands.
-- `/source`: Links to the GitHub repository for code and contributions.
+- `/getCode`: Links to the GitHub repository for code and contributions.
 
 ## Installation 🛠
 

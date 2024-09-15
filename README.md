@@ -31,4 +31,36 @@ A **Telegram bot** built with **Node.js** using **Express.js** and the **telegra
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/qr-code-generator-bot.git
+   git clone https://github.com/Shibin-Abraham/telegram-bot
+
+2. Navigate to the project directory:
+    ```bash
+    cd qr-code-generator-bot
+
+3. Install dependencies:
+    ```bash
+    npm install
+
+4. Create a .env file in the root directory and add your Telegram Bot token:
+    ```bash
+    TELEGRAM_TOKEN=your-telegram-bot-token
+
+5. Start the bot:
+    ```bash
+    npm start
+
+## Contributing 🌍
+Feel free to submit issues, fork the repository, and open pull requests. Contributions are more than welcome!
+
+### How to Contribute:
+1. Fork the repository.
+2. Create a new branch with a descriptive name for your feature.
+3. Make your changes and commit them with a clear message describing what you've done.
+4. Push your changes to your fork.
+5. Open a pull request to the main repository.
+
+## License 📄
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Support 🙌
+If you like this project, please give it a ⭐️ on GitHub! If you have any questions or suggestions, feel free to open an issue.

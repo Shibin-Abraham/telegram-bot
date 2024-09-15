@@ -35,7 +35,7 @@ A **Telegram bot** built with **Node.js** using **Express.js** and the **telegra
 
 2. Navigate to the project directory:
     ```bash
-    cd qr-code-generator-bot
+    cd telegram-bot
 
 3. Install dependencies:
     ```bash
@@ -65,7 +65,7 @@ Feel free to submit issues, fork the repository, and open pull requests. Contrib
 4. Push to your branch.
     ```bash
     git push origin feature/your-feature-name
-    
+
 5. Open a pull request to the main repository.
 
 ## License 📄

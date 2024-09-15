@@ -54,9 +54,18 @@ Feel free to submit issues, fork the repository, and open pull requests. Contrib
 
 ### How to Contribute:
 1. Fork the repository.
-2. Create a new branch with a descriptive name for your feature.
-3. Make your changes and commit them with a clear message describing what you've done.
-4. Push your changes to your fork.
+2. Create a new branch:
+   ```bash
+   git checkout -b feature/your-feature-name
+
+3. Make your changes and commit them with a clear message describing what you've done:
+    ```bash
+    git commit -m 'Add some feature'
+
+4. Push to your branch.
+    ```bash
+    git push origin feature/your-feature-name
+    
 5. Open a pull request to the main repository.
 
 ## License 📄

@@ -1,4 +1,4 @@
-# QR Code Generator Bot 🤖
+# QR Code Generator Telegram Bot 🤖
 
 A **Telegram bot** built with **Node.js** using **Express.js** and the **telegram-bot-api** module to generate QR codes on the fly. It's simple, fast, and fully open-source! 🚀
 
